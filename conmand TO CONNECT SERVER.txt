@@ -2,3 +2,4 @@ mongod.exe --port 27017 --dbpath D:\mongo\customData --journal
 
 shrikant hhhhdhhdhdhdhd
 deepali is dangerous
+Then what should I do
